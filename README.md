@@ -48,6 +48,17 @@ The dataset contains information about orders, customers, products, sales, profi
   - Monthly Sales Trend
   - Sales Distribution by Market
 
+## Dashboard Screenshots
+
+### Dashboard Overview
+![Dashboard Overview](Screenshots/dashboard_overview.png)
+
+### Sales Analysis
+![Sales by Category and Profit by Region](Screenshots/dashboard_charts_1.png)
+
+### Monthly and Market Analysis
+![Monthly Sales Trend and Sales by Market](Screenshots/dashboard_charts_2.png)
+
 ## 📁 Project Structure
 
 ```text
